@@ -1,0 +1,9 @@
+#fnow_plan_loading {
+
+    display: none;
+}
+
+.dataTables_wrapper .dataTables_length select {
+
+    padding: 4px 12px 4px 4px !important;
+}
